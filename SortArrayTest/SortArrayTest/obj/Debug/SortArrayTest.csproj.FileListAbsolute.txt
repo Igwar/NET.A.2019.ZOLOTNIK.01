@@ -1,0 +1,8 @@
+D:\Курсы епам\SortArrayTest\SortArrayTest\bin\Debug\SortArrayTest.exe.config
+D:\Курсы епам\SortArrayTest\SortArrayTest\bin\Debug\SortArrayTest.exe
+D:\Курсы епам\SortArrayTest\SortArrayTest\bin\Debug\SortArrayTest.pdb
+D:\Курсы епам\SortArrayTest\SortArrayTest\bin\Debug\SortArrayLibrary.dll
+D:\Курсы епам\SortArrayTest\SortArrayTest\bin\Debug\SortArrayLibrary.pdb
+D:\Курсы епам\SortArrayTest\SortArrayTest\obj\Debug\SortArrayTest.csprojResolveAssemblyReference.cache
+D:\Курсы епам\SortArrayTest\SortArrayTest\obj\Debug\SortArrayTest.exe
+D:\Курсы епам\SortArrayTest\SortArrayTest\obj\Debug\SortArrayTest.pdb
