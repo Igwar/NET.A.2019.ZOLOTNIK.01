@@ -1,0 +1,8 @@
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\bin\Debug\testfile.exe.config
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\bin\Debug\testfile.exe
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\bin\Debug\testfile.pdb
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\bin\Debug\Greeting.netmodule
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\obj\Debug\testfile.csprojResolveAssemblyReference.cache
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\obj\Debug\testfile.exe
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\obj\Debug\testfile.pdb
+D:\Курсы епам\Многофайловая сборка\testfile\testfile\bin\Debug\file2.dll
